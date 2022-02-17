@@ -8,6 +8,6 @@ dependencies:
   - jupyterlab
   - pip
   - python=3.9
+  - rich
   - pip:
     - chess
-
